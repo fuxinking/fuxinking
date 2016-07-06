@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*reset*/
+html,body,h1,h2,h3,h4,h5,h6,p,ul,ol,li,dl,dt,dd{margin:0;padding:0;}
+ul,ol{list-style:none;}
+h1,h2,h3,h4,h5,h6{font-weight:normal;}
+table{border:none;border-collapse:collapse;}
+input{vertical-align: middle;border:none; color:#000; -webkit-appearance:none;}
+a{outline:none; text-decoration:none;}
+i,em{font-style:normal;}
+img{border:none;}
+.clearfix:after{display:block;content:"";visibility:none;height:0px;clear:both;overflow:hidden;}
+.clearfix{*zoom:1;}
+body{font-family:"宋体";}
+.clear{ clear:both;}
